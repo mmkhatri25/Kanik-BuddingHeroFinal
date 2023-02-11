@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2061443449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa22d2713b567d899714135d044af774
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b1a6f773aab16b088fdfcbccd404759f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_SkeletonData.asset
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_Material.mat
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.png
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton_Atlas.asset
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.skel.bytes
+- Assets/Bundles/backgrounds/background-common/Resources/anim/ui/fire_fx/skeleton.atlas.txt
+Dependencies:
+- /Users/apple/Desktop/AlmostHeroOriginal/Assets/AaHBundles/spine-shaders
